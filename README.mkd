@@ -4,7 +4,7 @@ It originally started as a fork of [MongoRecord](www.yiiframework.com/extension/
 extension written by [tyohan](http://www.yiiframework.com/user/31/ "tyohan"),
 to fix some major bugs, and add full featured suite for [MongoDB](http://www.mongodb.org "MongoDB") developers.
  
-## My recent additions:
+## recent additions:
 - suport for multiple embedded documents
 
 ## todo:
